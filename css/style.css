@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+
+}
+h1, h2, h3, h4, h5, h6, p, ul{
+    margin:0; 
+    padding:0;
+}
+body{
+    background-color: #697C37;
+}
+.btn_send{
+    background-color: #bdcf16;
+}
+.btn_send:hover{
+    background-color:#9eb10e;
+}
+.form{
+    box-shadow: -19px 20px 1px #3d491f;
+}
+.main_section p{
+    padding-right: 50px;
+    text-align: justify;
+}
+label{
+margin-bottom: 5px;
+}
